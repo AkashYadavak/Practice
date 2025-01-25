@@ -1,0 +1,12 @@
+{
+    "movies":[
+
+        {
+            "id": 1,
+            "title": "Narsimha",
+            "imdb_rating": 5,
+            "release_year": 2025
+        }
+
+    ]
+}
