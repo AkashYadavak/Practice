@@ -11,10 +11,75 @@
     ],
 
     "dish":[
-
-        {
-            
-        }
-
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Margherita Pizza",
+        "description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+        "price": "$10.00",
+        "rating": 4.5
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Pepperoni Pizza",
+        "description": "A classic American pizza topped with tomato sauce, mozzarella cheese, and pepperoni.",
+        "price": "$12.00",
+        "rating": 4.8
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Mushroom Pizza",
+        "description": "A vegetarian pizza topped with tomato sauce, mozzarella cheese, and mushrooms.",
+        "price": "$11.00",
+        "rating": 4.7
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Onion Pizza",
+        "description": "A vegetarian pizza topped with tomato sauce, mozzarella cheese, and onions.",
+        "price": "$10.00",
+        "rating": 4.6
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Veggie Pizza",
+        "description": "A vegetarian pizza topped with tomato sauce, mozzarella cheese, and a variety of vegetables.",
+        "price": "$13.00",
+        "rating": 4.9
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Pepperoni and Mushroom Pizza",
+        "description": "A pizza topped with tomato sauce, mozzarella cheese, pepperoni, and mushrooms.",
+        "price": "$14.00",
+        "rating": 4.7
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Pepperoni and Onion Pizza",
+        "description": "A pizza topped with tomato sauce, mozzarella cheese, pepperoni, and onions.",
+        "price": "$13.00",
+        "rating": 4.8
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Mushroom and Onion Pizza",
+        "description": "A vegetarian pizza topped with tomato sauce, mozzarella cheese, mushrooms, and onions.",
+        "price": "$12.00",
+        "rating": 4.6
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Veggie and Mushroom Pizza",
+        "description": "A vegetarian pizza topped with tomato sauce, mozzarella cheese, a variety of vegetables, and mushrooms.",
+        "price": "$15.00",
+        "rating": 4.9
+      },
+      {
+        "image": "http://googleusercontent.com/image_generation_content/2",
+        "title": "Veggie and Onion Pizza",
+        "description": "A vegetarian pizza topped with tomato sauce, mozzarella cheese, a variety of vegetables, and onions.",
+        "price": "$14.00",
+        "rating": 4.8
+      }
     ]
 }
